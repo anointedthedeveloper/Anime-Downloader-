@@ -1,0 +1,12 @@
+*.exe
+__pycache__/
+__pycache__
+browser_profile/
+browser_profile
+_internal
+_internal/
+
+
+cookies_cache.json
+cookies.txt
+
